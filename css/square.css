@@ -28,6 +28,6 @@
     transition: transform 2s;
 }
 .tangram--basic .figure7 {
-    transform: translate(0px,256px);
+    transform: rotate(0deg) translate(0px,256px);
     transition: transform 2s;
 }

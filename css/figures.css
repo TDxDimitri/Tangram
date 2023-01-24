@@ -13,7 +13,7 @@
 .figure1 {
     border-right:256px solid transparent;
     border-bottom:256px solid transparent;
-    border-top: 256px solid #99CC33;
+    border-top: 256px solid #99cc33;
 }  
 
 .figure2 {
@@ -57,4 +57,5 @@
     border-right:256px solid transparent;
     border-left:256px solid transparent;
     border-bottom:256px solid #33CC66;
+
 }

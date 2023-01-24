@@ -1,0 +1,48 @@
+.tangram {
+    width:512px;
+    height:512px;
+    position: relative;
+    margin:150px auto;
+}
+
+.tangram > div {
+    position: absolute;
+    transform-origin: 0 0;
+}
+
+.tangram--dim .figure1 {
+    transform: rotate(180deg) translate(-509px,-300px);
+    transition: transform 2s;
+}  
+
+.tangram--dim .figure2 {
+    transform: rotate(0deg) skew(-45deg) translate(293px,48px);
+    transition: transform 2s;
+}
+
+.tangram--dim .figure3 {
+    transform: rotate(45deg) translate(28px,41px);
+    transition: transform 2s;
+}
+
+.tangram--dim .figure4 {
+    transform: rotate(0deg) translate(114px,177px);
+    transition: transform 2s;
+}
+
+.tangram--dim .figure5 {
+    transform: rotate(315deg) translate(-181px,-118px);
+    transition: transform 2s;
+}
+
+.tangram--dim .figure6 {
+    transform: rotate(0deg) translate(511px,45px);
+    transition: transform 2s;
+}
+
+.tangram--dim .figure7 {
+    transform: rotate(315deg) translate(-363px,320px);
+    transition: transform 2s;
+
+
+}
